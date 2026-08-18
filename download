@@ -3,3 +3,11 @@
 README.md
 *.zip
 __pycache__
+*.py[cod]
+.ruff_cache
+.pytest_cache
+.env
+.env.*
+!.env.example
+/data
+/output
